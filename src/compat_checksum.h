@@ -21,8 +21,6 @@
 #ifndef _BATON_COMPAT_CHECKSUM_H
 #define _BATON_COMPAT_CHECKSUM_H
 
-#include <rodsVersion.h>
-
 #include "config.h"
 
 #if IRODS_VERSION_INTEGER && IRODS_VERSION_INTEGER >= 4001008
